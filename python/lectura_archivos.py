@@ -15,6 +15,12 @@ with open(ruta_archivo,"r",encoding="utf-8")as archivo:
         print("----")
 
 """
+¿Por qué Python?
+
+“Porque es muy fuerte para automatización y manejo de datos, 
+permite leer archivos, validar información y escalar el proceso
+fácilmente.”
+
 Lectura de archivos – Python
 
 Problema:
