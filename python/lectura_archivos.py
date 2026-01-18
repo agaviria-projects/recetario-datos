@@ -21,6 +21,11 @@ with open(ruta_archivo,"r",encoding="utf-8")as archivo:
 permite leer archivos, validar información y escalar el proceso
 fácilmente.”
 
+Construí un script en Python que lee archivos de texto, procesa cada registro, 
+valida el formato y convierte los datos para que puedan ser analizados.
+El enfoque fue modular y orientado a evitar errores comunes como rutas
+incorrectas o datos mal formateados.”
+
 Lectura de archivos – Python
 
 Problema:
