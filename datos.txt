@@ -1,0 +1,6 @@
+Juan,100
+Ana,200
+Pedro,150
+Maria,300
+Gaviria,1000
+Angy,250
